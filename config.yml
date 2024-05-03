@@ -1,5 +1,5 @@
 baseURL: "https://rouzbehani.com/" 
-title: Prof. Name
+title: Ryin Rouzbehani M.S.
 paginate: 20
 theme: PaperMod
 
@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 1
         - name: Courses
@@ -20,13 +20,12 @@ menu:
         - name: Data
           url: data/
           weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        - name: Projects
+          url: /
+          weight: 3
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I am a Bioinformatician."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -50,25 +49,21 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Rouzbehani
+          subtitle: "I am a Bioinformatician."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Ryin
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Courses
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Projects
+              url: /
     socialIcons:
         - name: CV
           url: cv.pdf
@@ -76,18 +71,10 @@ consequat."
           url: mailto:pascal.michaillat@gmail.com
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true
@@ -96,7 +83,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Rouzbehani"
       icon: favicon.ico
       iconHeight: 18
 
