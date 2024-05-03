@@ -1,4 +1,0 @@
-baseURL = 'https://rouzbehani.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'barks'
