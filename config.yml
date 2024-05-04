@@ -1,5 +1,5 @@
 baseURL: "https://rouzbehani.com/" 
-title: Ryin Rouzbehani M.S.
+title: Hi I'm Ryin
 paginate: 20
 theme: PaperMod
 
@@ -49,7 +49,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Rouzbehani
+          title: Ryin Rouzbehani M.S.
           subtitle: "I am a Bioinformatician."
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -60,21 +60,19 @@ params:
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
             - name: Projects
               url: /
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        - name: Resume
+          url: resume.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:ryinrouz94@gmail.com
         - name: Location
           url: location/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=HtzmRIwAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/rrouz
 
     assets:
         disableHLJS: true
@@ -83,7 +81,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Rouzbehani"
+      text: "RR"
       icon: favicon.ico
       iconHeight: 18
 
