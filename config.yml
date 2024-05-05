@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Ryin Rouzbehani M.S.
           subtitle: "I am a Bioinformatician."
-          imageUrl: "picture.jpeg"
+          imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Ryin
