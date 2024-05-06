@@ -9,20 +9,20 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: Publications
-          url: papers/
-          weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Projects
-          url: /
-          weight: 3
+#menu:
+#    main:
+#        - name: Publications
+#          url: papers/
+#          weight: 1
+#        - name: Courses
+#          url: courses/
+#          weight: 2
+#        - name: Data
+#          url: data/
+#          weight: 3 
+#        - name: Projects
+#          url: /
+#          weight: 3
 
 params:
     description: "I like bioinformatics."
