@@ -55,13 +55,13 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Ryin
-          buttons:
-            - name: Publications
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Projects
-              url: /
+          #buttons:
+          #  - name: Publications
+          #    url: papers/
+          #  - name: Courses
+          #    url: courses/
+          #  - name: Projects
+          #    url: /
     socialIcons:
         - name: Resume
           url: ryin_resume.pdf
