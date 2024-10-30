@@ -25,7 +25,7 @@ taxonomies:
 #          weight: 3
 
 params:
-    description: "I like bioinformatics."
+    description: "I like bioinformatics, health informatics, and data science."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
