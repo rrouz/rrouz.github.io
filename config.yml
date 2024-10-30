@@ -65,7 +65,7 @@ params:
     socialIcons:
         - name: Email
           url: mailto:ryinrouz94@gmail.com
-        - name: Tableau
+        - name: Projects
           url: https://public.tableau.com/views/GroundLevelFalls_5_4/UnintentionalNon-FatalFalls65?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=HtzmRIwAAAAJ&hl=en
