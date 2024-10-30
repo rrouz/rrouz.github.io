@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Ryin Rouzbehani M.S.
-          subtitle: "I like bioinformatics."
+          subtitle: "I like bioinformatics, health informatics, and data science."
           imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
